@@ -4,3 +4,4 @@
 __all__=['download', 'sendemail']
 
 import PKpkg.myweb.download
+import PKpkg.myweb.sendemail
